@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BirdWatcher")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991c25996fc053b51248b81526e100c4c8f2a74a")]
-[assembly: System.Reflection.AssemblyProductAttribute("BirdWatcher")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BirdWatcher")]
+[assembly: System.Reflection.AssemblyProductAttribute("LuciansLusciousLasagna")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LuciansLusciousLasagna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyMetadata("Microsoft.Testing.Platform.Application", "true")]
 
